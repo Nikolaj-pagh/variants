@@ -1,2 +1,3 @@
 First observed in Kenth.
 Important mutation is N501Y.
+This is a mutation to the spike protein. 
